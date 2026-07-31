@@ -1,0 +1,7 @@
+[
+    {
+        "id": "00001",
+        "image": "inference/data/00001.jpg",
+        "question": "What are the animals in the painting and what are they doing?\n<image>"
+    }
+]
